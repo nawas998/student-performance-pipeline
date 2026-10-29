@@ -1,0 +1,370 @@
+Student_ID,Subject,Marks,Attendance_Percentage
+AMC_2026_001,Big Data Analytics,36,61.2
+AMC_2026_001,Applied Statistics,89,83.8
+AMC_2026_001,Machine Learning,57,54.3
+AMC_2026_001,Database Management Systems,35,51.6
+AMC_2026_002,Machine Learning,90,80.1
+AMC_2026_002,Database Management Systems,71,59.9
+AMC_2026_003,Applied Statistics,55,90.5
+AMC_2026_003,Big Data Analytics,65,87.9
+AMC_2026_003,Machine Learning,76,84.9
+AMC_2026_003,Database Management Systems,43,63.9
+AMC_2026_004,Big Data Analytics,52,54.8
+AMC_2026_004,Applied Statistics,57,80.2
+AMC_2026_004,Machine Learning,89,86.5
+AMC_2026_005,Applied Statistics,95,77.6
+AMC_2026_005,Big Data Analytics,78,80.9
+AMC_2026_006,Machine Learning,73,83.1
+AMC_2026_006,Database Management Systems,69,99.3
+AMC_2026_006,Big Data Analytics,79,93.3
+AMC_2026_006,Applied Statistics,70,63.9
+AMC_2026_007,Machine Learning,47,60.5
+AMC_2026_007,Applied Statistics,98,85.1
+AMC_2026_007,Database Management Systems,93,82.4
+AMC_2026_008,Machine Learning,47,73.1
+AMC_2026_008,Database Management Systems,95,99.5
+AMC_2026_008,Big Data Analytics,69,84.4
+AMC_2026_008,Applied Statistics,58,84.2
+AMC_2026_009,Big Data Analytics,34,70.1
+AMC_2026_009,Machine Learning,66,60.5
+AMC_2026_010,Database Management Systems,96,94.2
+AMC_2026_010,Big Data Analytics,46,72.9
+AMC_2026_010,Machine Learning,65,57.0
+AMC_2026_010,Applied Statistics,92,76.9
+AMC_2026_011,Applied Statistics,63,99.9
+AMC_2026_011,Machine Learning,60,75.5
+AMC_2026_011,Big Data Analytics,62,87.8
+AMC_2026_012,Machine Learning,34,71.1
+AMC_2026_012,Database Management Systems,68,69.2
+AMC_2026_013,Database Management Systems,62,84.0
+AMC_2026_013,Applied Statistics,89,84.1
+AMC_2026_013,Big Data Analytics,96,87.5
+AMC_2026_014,Big Data Analytics,30,57.9
+AMC_2026_014,Machine Learning,71,97.7
+AMC_2026_014,Database Management Systems,66,98.6
+AMC_2026_015,Big Data Analytics,40,57.6
+AMC_2026_015,Big Data Analytics,40,57.6
+AMC_2026_015,Database Management Systems,88,77.0
+AMC_2026_015,Database Management Systems,88,77.0
+AMC_2026_015,Machine Learning,93,95.9
+AMC_2026_015,Machine Learning,93,95.9
+AMC_2026_015,Applied Statistics,31,66.2
+AMC_2026_015,Applied Statistics,31,66.2
+AMC_2026_016,Database Management Systems,45,62.0
+AMC_2026_016,Machine Learning,60,93.9
+AMC_2026_017,Applied Statistics,89,98.9
+AMC_2026_017,Big Data Analytics,63,88.3
+AMC_2026_018,Applied Statistics,93,76.4
+AMC_2026_018,Database Management Systems,43,71.2
+AMC_2026_018,Big Data Analytics,99,96.4
+AMC_2026_018,Machine Learning,49,60.1
+AMC_2026_019,Database Management Systems,44,56.1
+AMC_2026_019,Machine Learning,31,53.2
+AMC_2026_019,Applied Statistics,69,79.4
+AMC_2026_020,Machine Learning,32,61.4
+AMC_2026_020,Big Data Analytics,59,93.0
+AMC_2026_020,Database Management Systems,72,75.7
+AMC_2026_020,Applied Statistics,68,83.4
+AMC_2026_021,Machine Learning,81,89.2
+AMC_2026_021,Database Management Systems,36,59.5
+AMC_2026_021,Applied Statistics,77,82.9
+AMC_2026_021,Big Data Analytics,59,71.2
+AMC_2026_022,Big Data Analytics,51,70.1
+AMC_2026_022,Database Management Systems,61,90.0
+AMC_2026_022,Applied Statistics,42,62.4
+AMC_2026_022,Machine Learning,63,76.8
+AMC_2026_023,Machine Learning,34,62.5
+AMC_2026_023,Applied Statistics,65,72.2
+AMC_2026_023,Database Management Systems,71,54.9
+AMC_2026_024,Big Data Analytics,60,70.3
+AMC_2026_024,Applied Statistics,55,60.7
+AMC_2026_024,Database Management Systems,65,95.1
+AMC_2026_024,Machine Learning,54,68.9
+AMC_2026_025,Applied Statistics,90,84.8
+AMC_2026_025,Machine Learning,86,83.1
+AMC_2026_025,Database Management Systems,48,57.7
+AMC_2026_026,Big Data Analytics,58,86.8
+AMC_2026_026,Database Management Systems,58,87.4
+AMC_2026_027,Applied Statistics,88,96.0
+AMC_2026_027,Database Management Systems,62,57.9
+AMC_2026_028,Machine Learning,98,79.8
+AMC_2026_028,Big Data Analytics,80,93.1
+AMC_2026_029,Machine Learning,94,79.7
+AMC_2026_029,Database Management Systems,72,54.1
+AMC_2026_030,Database Management Systems,55,61.9
+AMC_2026_030,Machine Learning,71,56.5
+AMC_2026_030,Big Data Analytics,50,65.0
+AMC_2026_030,Applied Statistics,59,96.5
+AMC_2026_031,Applied Statistics,61,99.9
+AMC_2026_031,Database Management Systems,43,53.7
+AMC_2026_032,Database Management Systems,78,94.0
+AMC_2026_032,Big Data Analytics,58,64.2
+AMC_2026_032,Machine Learning,100,91.7
+AMC_2026_032,Applied Statistics,71,65.1
+AMC_2026_033,Big Data Analytics,63,96.9
+AMC_2026_033,Database Management Systems,36,63.2
+AMC_2026_033,Machine Learning,64,87.1
+AMC_2026_033,Applied Statistics,68,63.6
+AMC_2026_034,Database Management Systems,71,84.4
+AMC_2026_034,Big Data Analytics,71,75.3
+AMC_2026_035,Big Data Analytics,47,71.2
+AMC_2026_035,Database Management Systems,51,52.2
+AMC_2026_036,Database Management Systems,90,87.1
+AMC_2026_036,Big Data Analytics,90,85.3
+AMC_2026_037,Big Data Analytics,99,97.3
+AMC_2026_037,Applied Statistics,89,95.2
+AMC_2026_038,Database Management Systems,82,77.6
+AMC_2026_038,Applied Statistics,49,56.4
+AMC_2026_039,Big Data Analytics,97,84.1
+AMC_2026_039,Machine Learning,65,55.1
+AMC_2026_039,Applied Statistics,81,94.2
+AMC_2026_040,Machine Learning,56,94.1
+AMC_2026_040,Big Data Analytics,51,59.0
+AMC_2026_040,Database Management Systems,81,89.1
+AMC_2026_040,Applied Statistics,70,90.1
+AMC_2026_041,Machine Learning,32,69.1
+AMC_2026_041,Database Management Systems,69,92.9
+AMC_2026_041,Big Data Analytics,59,60.0
+AMC_2026_042,Database Management Systems,,51.2
+AMC_2026_042,Big Data Analytics,,69.9
+AMC_2026_042,Applied Statistics,,93.2
+AMC_2026_043,Applied Statistics,62,97.0
+AMC_2026_043,Database Management Systems,71,93.9
+AMC_2026_043,Machine Learning,46,58.9
+AMC_2026_044,Big Data Analytics,50,71.7
+AMC_2026_044,Database Management Systems,62,71.8
+AMC_2026_045,Applied Statistics,32,59.5
+AMC_2026_045,Database Management Systems,55,85.4
+AMC_2026_046,Machine Learning,76,97.4
+AMC_2026_046,Applied Statistics,97,81.2
+AMC_2026_046,Database Management Systems,74,92.4
+AMC_2026_046,Big Data Analytics,97,75.4
+AMC_2026_047,Database Management Systems,67,77.7
+AMC_2026_047,Machine Learning,54,71.0
+AMC_2026_047,Applied Statistics,66,83.9
+AMC_2026_048,Database Management Systems,57,64.3
+AMC_2026_048,Machine Learning,93,89.3
+AMC_2026_048,Big Data Analytics,84,82.7
+AMC_2026_048,Applied Statistics,73,72.1
+AMC_2026_049,Applied Statistics,35,58.5
+AMC_2026_049,Database Management Systems,72,64.2
+AMC_2026_050,Database Management Systems,42,61.2
+AMC_2026_050,Big Data Analytics,32,57.4
+AMC_2026_050,Applied Statistics,60,62.2
+AMC_2026_050,Machine Learning,59,80.6
+AMC_2026_051,Applied Statistics,79,85.9
+AMC_2026_051,Database Management Systems,45,74.7
+AMC_2026_051,Big Data Analytics,74,57.4
+AMC_2026_052,Big Data Analytics,74,60.9
+AMC_2026_052,Machine Learning,58,75.9
+AMC_2026_053,Machine Learning,97,90.1
+AMC_2026_053,Big Data Analytics,90,76.6
+AMC_2026_053,Applied Statistics,83,79.8
+AMC_2026_053,Database Management Systems,87,80.6
+AMC_2026_054,Applied Statistics,45,72.5
+AMC_2026_054,Big Data Analytics,72,92.0
+AMC_2026_054,Machine Learning,88,88.3
+AMC_2026_055,Machine Learning,48,53.9
+AMC_2026_055,Applied Statistics,51,61.7
+AMC_2026_055,Database Management Systems,64,66.0
+AMC_2026_056,Machine Learning,74,61.6
+AMC_2026_056,Big Data Analytics,43,57.6
+AMC_2026_057,Applied Statistics,59,66.5
+AMC_2026_057,Machine Learning,43,70.8
+AMC_2026_058,Applied Statistics,91,92.8
+AMC_2026_058,Database Management Systems,30,69.0
+AMC_2026_058,Big Data Analytics,74,97.1
+AMC_2026_059,Applied Statistics,47,74.4
+AMC_2026_059,Database Management Systems,31,71.8
+AMC_2026_059,Big Data Analytics,72,69.4
+AMC_2026_060,Applied Statistics,94,96.0
+AMC_2026_060,Database Management Systems,80,76.7
+AMC_2026_060,Big Data Analytics,97,79.6
+AMC_2026_060,Machine Learning,71,51.4
+AMC_2026_061,Machine Learning,54,52.5
+AMC_2026_061,Applied Statistics,59,66.4
+AMC_2026_061,Big Data Analytics,54,66.3
+AMC_2026_062,Applied Statistics,64,73.5
+AMC_2026_062,Machine Learning,52,52.6
+AMC_2026_062,Big Data Analytics,34,61.2
+AMC_2026_063,Big Data Analytics,94,92.0
+AMC_2026_063,Applied Statistics,38,57.6
+AMC_2026_063,Database Management Systems,37,73.7
+AMC_2026_063,Machine Learning,68,78.2
+AMC_2026_064,Database Management Systems,100,80.3
+AMC_2026_064,Machine Learning,40,55.7
+AMC_2026_064,Big Data Analytics,61,98.2
+AMC_2026_065,Big Data Analytics,67,97.1
+AMC_2026_065,Machine Learning,74,53.8
+AMC_2026_065,Database Management Systems,70,91.5
+AMC_2026_065,Applied Statistics,49,55.1
+AMC_2026_066,Big Data Analytics,97,76.6
+AMC_2026_066,Database Management Systems,62,68.5
+AMC_2026_066,Applied Statistics,55,82.4
+AMC_2026_066,Machine Learning,86,92.5
+AMC_2026_067,Applied Statistics,84,81.8
+AMC_2026_067,Machine Learning,82,85.4
+AMC_2026_068,Database Management Systems,89,90.4
+AMC_2026_068,Applied Statistics,84,88.7
+AMC_2026_069,Database Management Systems,60,91.5
+AMC_2026_069,Machine Learning,58,63.9
+AMC_2026_069,Big Data Analytics,59,62.2
+AMC_2026_070,Applied Statistics,66,92.5
+AMC_2026_070,Machine Learning,52,74.4
+AMC_2026_070,Big Data Analytics,76,89.9
+AMC_2026_070,Database Management Systems,68,64.0
+AMC_2026_071,Database Management Systems,56,54.3
+AMC_2026_071,Applied Statistics,45,74.4
+AMC_2026_071,Big Data Analytics,96,84.5
+AMC_2026_071,Machine Learning,83,85.6
+AMC_2026_072,Big Data Analytics,74,61.1
+AMC_2026_072,Machine Learning,72,62.2
+AMC_2026_073,Database Management Systems,90,99.8
+AMC_2026_073,Machine Learning,74,66.5
+AMC_2026_073,Applied Statistics,49,72.7
+AMC_2026_073,Big Data Analytics,37,62.6
+AMC_2026_074,Machine Learning,60,59.6
+AMC_2026_074,Applied Statistics,67,63.8
+AMC_2026_074,Big Data Analytics,88,98.8
+AMC_2026_074,Database Management Systems,61,79.8
+AMC_2026_075,Database Management Systems,49,68.0
+AMC_2026_075,Big Data Analytics,64,50.7
+AMC_2026_076,Database Management Systems,90,98.7
+AMC_2026_076,Big Data Analytics,38,64.6
+AMC_2026_077,Applied Statistics,58,73.5
+AMC_2026_077,Big Data Analytics,33,67.0
+AMC_2026_077,Database Management Systems,60,62.6
+AMC_2026_077,Machine Learning,34,55.7
+AMC_2026_078,Applied Statistics,66,57.6
+AMC_2026_078,Big Data Analytics,60,97.5
+AMC_2026_078,Database Management Systems,62,99.7
+AMC_2026_079,Applied Statistics,58,72.5
+AMC_2026_079,Database Management Systems,67,64.9
+AMC_2026_079,Big Data Analytics,74,99.5
+AMC_2026_079,Machine Learning,58,78.4
+AMC_2026_080,Big Data Analytics,65,83.0
+AMC_2026_080,Applied Statistics,65,62.0
+AMC_2026_080,Database Management Systems,30,53.8
+AMC_2026_080,Machine Learning,74,70.4
+AMC_2026_081,Applied Statistics,48,64.4
+AMC_2026_081,Machine Learning,84,85.1
+AMC_2026_081,Big Data Analytics,44,53.6
+AMC_2026_081,Database Management Systems,95,96.2
+AMC_2026_082,Machine Learning,72,82.4
+AMC_2026_082,Applied Statistics,59,91.3
+AMC_2026_082,Big Data Analytics,49,53.0
+AMC_2026_082,Database Management Systems,91,79.8
+AMC_2026_083,Applied Statistics,99,84.4
+AMC_2026_083,Big Data Analytics,47,70.1
+AMC_2026_083,Machine Learning,86,75.0
+AMC_2026_084,Big Data Analytics,75,94.5
+AMC_2026_084,Database Management Systems,56,80.2
+AMC_2026_084,Applied Statistics,73,54.6
+AMC_2026_085,Big Data Analytics,66,88.2
+AMC_2026_085,Database Management Systems,71,73.5
+AMC_2026_085,Machine Learning,47,72.1
+AMC_2026_085,Applied Statistics,67,59.1
+AMC_2026_086,Applied Statistics,51,67.4
+AMC_2026_086,Big Data Analytics,36,66.1
+AMC_2026_086,Machine Learning,76,92.9
+AMC_2026_087,Applied Statistics,90,90.7
+AMC_2026_087,Machine Learning,35,51.8
+AMC_2026_087,Database Management Systems,50,65.7
+AMC_2026_088,Applied Statistics,55,91.2
+AMC_2026_088,Database Management Systems,89,82.9
+AMC_2026_089,Applied Statistics,94,75.9
+AMC_2026_089,Big Data Analytics,95,87.8
+AMC_2026_089,Database Management Systems,33,72.1
+AMC_2026_090,Database Management Systems,48,56.6
+AMC_2026_090,Applied Statistics,74,71.9
+AMC_2026_091,Big Data Analytics,74,85.5
+AMC_2026_091,Applied Statistics,90,77.5
+AMC_2026_091,Database Management Systems,44,70.4
+AMC_2026_092,Applied Statistics,64,82.4
+AMC_2026_092,Big Data Analytics,48,74.9
+AMC_2026_093,Database Management Systems,65,62.2
+AMC_2026_093,Machine Learning,42,57.2
+AMC_2026_093,Applied Statistics,87,96.1
+AMC_2026_093,Big Data Analytics,63,87.3
+AMC_2026_094,Database Management Systems,62,67.0
+AMC_2026_094,Machine Learning,30,63.4
+AMC_2026_095,Database Management Systems,83,93.3
+AMC_2026_095,Applied Statistics,77,76.9
+AMC_2026_095,Machine Learning,64,66.6
+AMC_2026_096,Applied Statistics,70,99.0
+AMC_2026_096,Machine Learning,69,78.6
+AMC_2026_096,Big Data Analytics,81,92.8
+AMC_2026_097,Database Management Systems,54,73.6
+AMC_2026_097,Applied Statistics,72,69.3
+AMC_2026_098,Machine Learning,92,75.1
+AMC_2026_098,Applied Statistics,36,66.6
+AMC_2026_098,Big Data Analytics,83,93.7
+AMC_2026_098,Database Management Systems,59,55.0
+AMC_2026_099,Machine Learning,64,93.5
+AMC_2026_099,Applied Statistics,46,53.7
+AMC_2026_100,Applied Statistics,98,92.6
+AMC_2026_100,Database Management Systems,79,93.0
+AMC_2026_100,Big Data Analytics,95,97.7
+AMC_2026_101,Applied Statistics,73,61.7
+AMC_2026_101,Database Management Systems,69,96.0
+AMC_2026_101,Big Data Analytics,82,87.3
+AMC_2026_101,Machine Learning,95,98.9
+AMC_2026_102,Big Data Analytics,57,95.2
+AMC_2026_102,Machine Learning,33,66.2
+AMC_2026_102,Applied Statistics,53,64.7
+AMC_2026_102,Database Management Systems,45,71.5
+AMC_2026_103,Applied Statistics,69,58.8
+AMC_2026_103,Database Management Systems,94,93.5
+AMC_2026_103,Big Data Analytics,86,84.2
+AMC_2026_103,Machine Learning,64,95.6
+AMC_2026_104,Applied Statistics,46,62.7
+AMC_2026_104,Database Management Systems,84,83.3
+AMC_2026_105,Machine Learning,92,97.3
+AMC_2026_105,Big Data Analytics,57,65.0
+AMC_2026_105,Applied Statistics,84,84.5
+AMC_2026_106,Machine Learning,54,55.3
+AMC_2026_106,Applied Statistics,91,78.6
+AMC_2026_106,Database Management Systems,74,64.8
+AMC_2026_107,Big Data Analytics,66,63.7
+AMC_2026_107,Database Management Systems,58,93.3
+AMC_2026_107,Machine Learning,86,95.5
+AMC_2026_108,Machine Learning,42,61.0
+AMC_2026_108,Database Management Systems,98,81.0
+AMC_2026_108,Applied Statistics,97,87.8
+AMC_2026_109,Machine Learning,58,65.4
+AMC_2026_109,Database Management Systems,53,51.7
+AMC_2026_109,Big Data Analytics,60,86.6
+AMC_2026_109,Applied Statistics,75,95.5
+AMC_2026_110,Applied Statistics,78,89.3
+AMC_2026_110,Big Data Analytics,72,76.5
+AMC_2026_110,Database Management Systems,71,91.5
+AMC_2026_110,Machine Learning,85,95.7
+AMC_2026_111,Database Management Systems,64,98.1
+AMC_2026_111,Big Data Analytics,69,87.7
+AMC_2026_111,Machine Learning,98,93.0
+AMC_2026_112,Database Management Systems,64,50.7
+AMC_2026_112,Big Data Analytics,53,56.2
+AMC_2026_112,Machine Learning,98,83.6
+AMC_2026_113,Applied Statistics,44,55.4
+AMC_2026_113,Database Management Systems,69,73.6
+AMC_2026_113,Machine Learning,90,94.2
+AMC_2026_114,Machine Learning,84,81.8
+AMC_2026_114,Database Management Systems,74,95.5
+AMC_2026_114,Big Data Analytics,62,82.5
+AMC_2026_115,Big Data Analytics,61,65.2
+AMC_2026_115,Applied Statistics,45,55.8
+AMC_2026_116,Machine Learning,99,83.5
+AMC_2026_116,Applied Statistics,81,97.3
+AMC_2026_116,Database Management Systems,64,79.4
+AMC_2026_116,Big Data Analytics,96,94.3
+AMC_2026_117,Applied Statistics,47,70.4
+AMC_2026_117,Database Management Systems,53,51.6
+AMC_2026_118,Applied Statistics,78,97.5
+AMC_2026_118,Machine Learning,73,55.0
+AMC_2026_119,Database Management Systems,37,63.8
+AMC_2026_119,Big Data Analytics,84,97.5
+AMC_2026_119,Machine Learning,43,54.6
+AMC_2026_120,Big Data Analytics,91,99.4
+AMC_2026_120,Applied Statistics,65,60.3
+AMC_2026_120,Machine Learning,43,60.4
+AMC_2026_120,Database Management Systems,69,90.7
